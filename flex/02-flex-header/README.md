@@ -16,3 +16,6 @@ wide:
 - list-items are horizontal, and are centered vertically inside the header.
 - left-links and right-links are pushed all the way to the left and right, and stay at the edge of the header when the page is resized.
 - Your solution does not use floats, inline-block, or absolute positioning.
+
+**DONE**
+- display: flex; in affected groups that are not children (in header, logo, and ul)
